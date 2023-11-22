@@ -1,0 +1,5 @@
+/home/mazhar/build-sudoku-Desktop-Debug/CMakeFiles/sudoku.dir
+/home/mazhar/build-sudoku-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/mazhar/build-sudoku-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/mazhar/build-sudoku-Desktop-Debug/CMakeFiles/sudoku_autogen_timestamp_deps.dir
+/home/mazhar/build-sudoku-Desktop-Debug/CMakeFiles/sudoku_autogen.dir
