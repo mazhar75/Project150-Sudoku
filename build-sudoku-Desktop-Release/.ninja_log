@@ -1,0 +1,16 @@
+# ninja log v5
+0	555	1701181302616192105	sudoku_autogen/timestamp	d3e8d06f12478017
+0	555	1701181302616192105	sudoku_autogen/mocs_compilation.cpp	d3e8d06f12478017
+0	555	1701181302616192105	/home/mazhar/build-sudoku-Desktop-Release/sudoku_autogen/timestamp	d3e8d06f12478017
+0	555	1701181302616192105	/home/mazhar/build-sudoku-Desktop-Release/sudoku_autogen/mocs_compilation.cpp	d3e8d06f12478017
+555	2953	1701181305032131487	CMakeFiles/sudoku.dir/sudoku_autogen/mocs_compilation.cpp.o	2df3d1292cc3a9aa
+556	3034	1701181305112129634	CMakeFiles/sudoku.dir/mainwindow.cpp.o	a60fbe07369ab7f7
+556	3862	1701181305940110447	CMakeFiles/sudoku.dir/main.cpp.o	c5c6eded7ce9b9a1
+3862	4189	1701181306264103230	sudoku	35cc7d639ef64706
+2	57	1701185148811531525	sudoku_autogen/timestamp	d3e8d06f12478017
+2	57	1701185148811531525	sudoku_autogen/mocs_compilation.cpp	d3e8d06f12478017
+2	57	1701185148811531525	/home/mazhar/build-sudoku-Desktop-Release/sudoku_autogen/timestamp	d3e8d06f12478017
+2	57	1701185148811531525	/home/mazhar/build-sudoku-Desktop-Release/sudoku_autogen/mocs_compilation.cpp	d3e8d06f12478017
+59	1426	1701185150179598435	CMakeFiles/sudoku.dir/mainwindow.cpp.o	a60fbe07369ab7f7
+58	1984	1701185150739625831	CMakeFiles/sudoku.dir/main.cpp.o	c5c6eded7ce9b9a1
+1984	2297	1701185151047640899	sudoku	35cc7d639ef64706
