@@ -1,0 +1,5 @@
+/home/mazhar/build-cse150-Desktop-Release/CMakeFiles/cse150.dir
+/home/mazhar/build-cse150-Desktop-Release/CMakeFiles/edit_cache.dir
+/home/mazhar/build-cse150-Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/mazhar/build-cse150-Desktop-Release/CMakeFiles/cse150_autogen_timestamp_deps.dir
+/home/mazhar/build-cse150-Desktop-Release/CMakeFiles/cse150_autogen.dir
