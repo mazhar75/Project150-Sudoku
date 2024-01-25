@@ -27,6 +27,7 @@ public:
     QPlainTextEdit *plainTextEdit;
     QPushButton *submitButton;
     QPushButton *pushButton;
+    QPushButton *pushButton_2;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -46,6 +47,9 @@ public:
         pushButton = new QPushButton(centralwidget);
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
         pushButton->setGeometry(QRect(690, 0, 101, 51));
+        pushButton_2 = new QPushButton(centralwidget);
+        pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
+        pushButton_2->setGeometry(QRect(110, 380, 531, 61));
         getSolution->setCentralWidget(centralwidget);
         menubar = new QMenuBar(getSolution);
         menubar->setObjectName(QString::fromUtf8("menubar"));
@@ -65,6 +69,7 @@ public:
         getSolution->setWindowTitle(QCoreApplication::translate("getSolution", "MainWindow", nullptr));
         submitButton->setText(QCoreApplication::translate("getSolution", "Show Solution", nullptr));
         pushButton->setText(QCoreApplication::translate("getSolution", "Back", nullptr));
+        pushButton_2->setText(QCoreApplication::translate("getSolution", "About Algorithm", nullptr));
     } // retranslateUi
 
 };

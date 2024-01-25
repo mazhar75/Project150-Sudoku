@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cse150",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cse150::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cse150-Release-e93255f9f9e1f9c9de28.json",
+					"name" : "cse150",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cse150_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cse150_autogen-Release-dcf4c687a6fa220c8e17.json",
+					"name" : "cse150_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cse150_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cse150_autogen_timestamp_deps-Release-a6eec57e2c24ab859baa.json",
+					"name" : "cse150_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mazhar/build-cse150-Desktop-Release",
+		"source" : "/home/mazhar/cse150"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
