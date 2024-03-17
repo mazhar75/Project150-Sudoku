@@ -25,13 +25,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 151,
+				"line" : 155,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 157,
+				"line" : 161,
 				"parent" : 0
 			}
 		]
@@ -157,7 +157,8 @@
 				101,
 				106,
 				111,
-				116
+				116,
+				119
 			]
 		}
 	],
@@ -246,7 +247,8 @@
 				101,
 				106,
 				111,
-				116
+				116,
+				119
 			]
 		},
 		{
@@ -280,10 +282,7 @@
 				107,
 				112,
 				117,
-				119,
 				120,
-				121,
-				122,
 				123,
 				124,
 				125,
@@ -306,7 +305,12 @@
 				142,
 				143,
 				144,
-				145
+				145,
+				146,
+				147,
+				148,
+				149,
+				150
 			]
 		},
 		{
@@ -376,14 +380,16 @@
 				114,
 				115,
 				118,
-				146
+				121,
+				122,
+				151
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				147
+				152
 			]
 		}
 	],
@@ -1015,6 +1021,27 @@
 			"sourceGroupIndex" : 2
 		},
 		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "about_algo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "about_algo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "about_algo.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "issolved.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "/home/mazhar/build-cse150-Desktop-Release/cse150_autogen/include/ui_mainwindow.h",
@@ -1174,6 +1201,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "/home/mazhar/build-cse150-Desktop-Release/cse150_autogen/include/ui_getsolution.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/mazhar/build-cse150-Desktop-Release/cse150_autogen/include/ui_about_algo.h",
 			"sourceGroupIndex" : 1
 		},
 		{
